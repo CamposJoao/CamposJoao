@@ -1,6 +1,8 @@
 ### Hi there! I'm João Pedro 👋
 
 - 🔭 I’m currently Telecommunications engineering student at the Federal University of Ceará
+- 👯 I’m looking to collaborate on multidisciplinary projects
+- ⚡ Fun fact: I like Formula 1 stuff
 <!--
 **CamposJoao/CamposJoao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
