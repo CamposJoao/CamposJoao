@@ -1,7 +1,7 @@
 ### Hi there! I'm João Pedro 👋
 
 - 🔭 I’m currently Telecommunications engineering student at the Federal University of Ceará
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Python
+- 🌱 I’m currently learning Flutter<!--, HTML, CSS, JavaScript and Python -->
 - 👯 I’m looking to collaborate on multidisciplinary projects
 - ⚡ Fun fact: I like Formula 1 stuff
 <!--
