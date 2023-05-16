@@ -1,9 +1,9 @@
 ### Hi there! I'm João Pedro 👋
 
-- 🔭 I’m currently Telecommunications engineering student at the Federal University of Ceará
+- 🔭 I’m currently a Telecommunications Engineering student at the Federal University of Ceará
 - 🌱 I’m currently learning Flutter<!--, HTML, CSS, JavaScript and Python -->
 - 👯 I’m looking to collaborate on multidisciplinary projects
-- ⚡ Fun fact: I like Formula 1 stuff
+- ⚡ Fun fact: I like Formula 1
 <!--
 **CamposJoao/CamposJoao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
