@@ -1,7 +1,8 @@
 ### Hi there! I'm João Pedro 👋
 
-- 🔭 I’m currently a Telecommunications Engineering student at the Federal University of Ceará
-- 🌱 I’m currently learning Dart and Flutter<!--, HTML, CSS, JavaScript and Python -->
+- 🎓 I have a degree in telecommunications engineering
+- 🔭 I’m currently a Data Science and Analytics MBA student at the USP Esalq
+- 🌱 I’m currently learning Data Science and Analytics with Python<!--, HTML, CSS, JavaScript and Python -->
 - 👯 I’m looking to collaborate on multidisciplinary projects
 - ⚡ Fun fact: I like Motorsport and Formula 1
 <!--
